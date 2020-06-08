@@ -4,6 +4,7 @@
 
 #include "Fonction.h"
 
+//test
 
 /*
 R: Permet d'allouer un espace mémoire pour le type IMAGE en fonction de sa taille. 

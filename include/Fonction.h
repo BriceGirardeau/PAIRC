@@ -1,3 +1,4 @@
+fcgvbhnjk,l;
 
 #include <stdlib.h>
 #include <stdio.h>
@@ -71,3 +72,5 @@ IMAGE FiltrePasseHaut(IMAGE img);
 IMAGE fct_EtiquettageImage(IMAGE ImgInput);
 
 IMAGE fct_replicateImage(IMAGE ImgInput, int nb_duplicate);
+
+//test
