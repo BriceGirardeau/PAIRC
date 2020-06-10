@@ -1,0 +1,2 @@
+﻿  main.c
+c:\users\brice\desktop\ipsi1\projet_image_c\projet_image\projet_image\main.c(37): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "pch.h"' à votre source ?
